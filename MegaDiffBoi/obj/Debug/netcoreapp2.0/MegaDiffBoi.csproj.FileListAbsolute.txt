@@ -1,0 +1,11 @@
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\bin\Debug\netcoreapp2.0\MegaDiffBoi.deps.json
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\bin\Debug\netcoreapp2.0\MegaDiffBoi.runtimeconfig.json
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\bin\Debug\netcoreapp2.0\MegaDiffBoi.runtimeconfig.dev.json
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\bin\Debug\netcoreapp2.0\MegaDiffBoi.dll
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\bin\Debug\netcoreapp2.0\MegaDiffBoi.pdb
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\obj\Debug\netcoreapp2.0\MegaDiffBoi.csprojResolveAssemblyReference.cache
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\obj\Debug\netcoreapp2.0\MegaDiffBoi.csproj.CoreCompileInputs.cache
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\obj\Debug\netcoreapp2.0\MegaDiffBoi.AssemblyInfoInputs.cache
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\obj\Debug\netcoreapp2.0\MegaDiffBoi.AssemblyInfo.cs
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\obj\Debug\netcoreapp2.0\MegaDiffBoi.dll
+c:\users\dev30\source\repos\MegaDiffBoi\MegaDiffBoi\obj\Debug\netcoreapp2.0\MegaDiffBoi.pdb
